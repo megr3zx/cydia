@@ -1,15 +1,10 @@
-Package: <package>
-Version: <version>
+Package: com.github.megr3zx.pokerkeypad
+Name: Poker Keypad
+Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: megr3zx <email (put in <>)>
-Depends: <bundleids>
-Filename: debs//<deb>
-Size: <deb in bytes>
-MD5sum: <md5 hash of deb>
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 of deb>
-Section: <section on your repo>
-Description: <description>
-Author: megr3zx <email (put in <>)>
-Depiction: http://decimation.github.io/Depic/<depicfoldername>/index.html
-Name: Tweakname
+Depends: winterboard
+Section: Themes
+Author: megr3zx <megr3zx@yahoo.com>
+Maintainer: megr3zx <megr3zx@yahoo.com>
+Description: Dialer keypad theme for iOS 7,8,9 on iPhone & iPad. Replace passcode and phone dialer keypad with poker cards style. 
+Homepage: https://github.com/megr3zx/
