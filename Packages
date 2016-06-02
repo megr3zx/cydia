@@ -1,10 +1,10 @@
 Package: com.github.megr3zx.pokerkeypad
 Name: Poker Keypad
 Version: 1.1
+Description: Dialer keypad theme for iOS 7,8,9 on iPhone & iPad. Replace passcode and phone dialer keypad with poker cards style.
 Architecture: iphoneos-arm
-Depends: winterboard
 Section: Themes
+Depends: winterboard
 Author: megr3zx <megr3zx@yahoo.com>
 Maintainer: megr3zx <megr3zx@yahoo.com>
-Description: Dialer keypad theme for iOS 7,8,9 on iPhone & iPad. Replace passcode and phone dialer keypad with poker cards style. 
 Homepage: https://github.com/megr3zx/
